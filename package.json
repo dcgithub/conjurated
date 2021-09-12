@@ -1,0 +1,20 @@
+{
+  "name": "create-conjurate-template",
+  "version": "0.1.0",
+  "description": "Start a conjurate template package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipelinhares/create-conjurate-template.git"
+  },
+  "keywords": [
+    "conjurate-template",
+    "conjurate"
+  ],
+  "author": "Filipe Linhares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipelinhares/create-conjurate-template/issues"
+  },
+  "homepage": "https://github.com/filipelinhares/create-conjurate-template#readme"
+}
